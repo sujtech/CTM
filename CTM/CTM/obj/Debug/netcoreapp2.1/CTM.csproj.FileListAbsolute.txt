@@ -1,0 +1,14 @@
+C:\Users\LNman\Source\Repos\CTM\CTM\bin\Debug\netcoreapp2.1\CTM.deps.json
+C:\Users\LNman\Source\Repos\CTM\CTM\bin\Debug\netcoreapp2.1\CTM.runtimeconfig.json
+C:\Users\LNman\Source\Repos\CTM\CTM\bin\Debug\netcoreapp2.1\CTM.runtimeconfig.dev.json
+C:\Users\LNman\Source\Repos\CTM\CTM\bin\Debug\netcoreapp2.1\CTM.dll
+C:\Users\LNman\Source\Repos\CTM\CTM\bin\Debug\netcoreapp2.1\CTM.pdb
+C:\Users\LNman\Source\Repos\CTM\CTM\obj\Debug\netcoreapp2.1\CTM.csproj.CoreCompileInputs.cache
+C:\Users\LNman\Source\Repos\CTM\CTM\obj\Debug\netcoreapp2.1\CTM.RazorAssemblyInfo.cache
+C:\Users\LNman\Source\Repos\CTM\CTM\obj\Debug\netcoreapp2.1\CTM.RazorAssemblyInfo.cs
+C:\Users\LNman\Source\Repos\CTM\CTM\obj\Debug\netcoreapp2.1\CTM.AssemblyInfoInputs.cache
+C:\Users\LNman\Source\Repos\CTM\CTM\obj\Debug\netcoreapp2.1\CTM.AssemblyInfo.cs
+C:\Users\LNman\Source\Repos\CTM\CTM\obj\Debug\netcoreapp2.1\CTM.RazorTargetAssemblyInfo.cache
+C:\Users\LNman\Source\Repos\CTM\CTM\obj\Debug\netcoreapp2.1\CTM.dll
+C:\Users\LNman\Source\Repos\CTM\CTM\obj\Debug\netcoreapp2.1\CTM.pdb
+C:\Users\LNman\Source\Repos\CTM\CTM\obj\Debug\netcoreapp2.1\CTM.csprojAssemblyReference.cache
